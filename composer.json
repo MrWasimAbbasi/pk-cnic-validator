@@ -1,5 +1,5 @@
 {
-    "name": "pk-cnic-validator/pk-cnic-validator",
+    "name": "wasim/pk-cnic-validator",
     "description": "A PHP package for validating Pakistan CNIC (Computerized National Identity Card) numbers with and without dashes",
     "type": "library",
     "license": "MIT",

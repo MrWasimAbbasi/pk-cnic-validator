@@ -18,7 +18,7 @@ A PHP package for validating Pakistan CNIC (Computerized National Identity Card)
 ### Via Composer
 
 ```bash
-composer require pk-cnic-validator/pk-cnic-validator
+composer require wasim/pk-cnic-validator
 ```
 
 ### Manual Installation

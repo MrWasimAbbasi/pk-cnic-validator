@@ -25,7 +25,7 @@ composer require wasim/pk-cnic-validator
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/pk-cnic-validator.git
+git clone https://github.com/MrWasimAbbasi/pk-cnic-validator.git
 cd pk-cnic-validator
 ```
 

@@ -183,4 +183,4 @@ If you encounter any issues or have questions, please open an issue on GitHub.
 - CNIC validation with and without dashes
 - Format conversion functionality
 - Information extraction
-- Comprehensive test coverage 
+- Comprehensive test coverage
